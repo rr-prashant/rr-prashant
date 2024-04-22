@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [coming soon..](coming soon..)
-
 - 📫 How to reach me **rumdali.psn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
