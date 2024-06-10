@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rr_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rr_prashant" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/rr_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rr_prashant" height="30" width="40" /></a> -->
+<a href="https://twitter.com/rr_prashant" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" alt="rr_prashant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rr-prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rr-prashant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rr_prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rr_prashant" height="30" width="40" /></a>
 </p>
