@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant Rai</h1>
-<h3 align="center">A Developer</h3>
+<h1 align="center">Hi, I'm Prashant Rai</h1>
 
 - 🔭 I’m currently working with DJANGO framework
 
