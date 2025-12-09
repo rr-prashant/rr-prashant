@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Rai</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Developer</h3>
 
-- 🔭 I’m currently working on [Flightmandu](https://github.com/rr-prashant/flightmandu.git)
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m currently working with DJANGO framework
 
 - 📫 How to reach me **rumdali.psn@gmail.com**
 
