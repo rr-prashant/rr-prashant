@@ -18,4 +18,4 @@
 
 **Languages:** Python · JavaScript · HTML · CSS
 
-**Frameworks & Tools:** Django · Flask · Flutter · Tailwind CSS · Firebase · SQLite · Git · Postman · Figma · Photoshop
+**Frameworks & Tools:** Django · DRF · Next · Tailwind · Supabase · Postgresql · Git · Postman
